@@ -9,7 +9,7 @@ __Falcon 9 First Stage Landing Prediction__
 
 SpaceX is a well-known private company famous for several historic milestones in launching rockets and successfully returning the first stage. This capability enabled SpaceX to advertise the Falcon 9 rocket with the price of $62 million which is more than 60% cheaper that the other competitive companies.  
 
-Due to the importance of successful first stage landing, the present work uses Machine Learning (ML) models to predict the success of the first stage landing.  
+Due to the importance of successful first stage landing, the present work uses Machine Learning (ML) models to predict the outcome of the first stage landing.  
 
 The present lab is a part of [Applied Data Science Capstone Course](https://www.coursera.org/learn/applied-data-science-capstone) offered by [Coursera.org](https://www.Coursera.org)
 
