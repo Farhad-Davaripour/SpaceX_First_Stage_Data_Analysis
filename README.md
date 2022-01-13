@@ -30,5 +30,5 @@ The extracts launch data from SpaceX REST API and employs classification algorit
 ![image](MyImage-GitHub.jpg)
 
 
-- Farhad Davaripour is a quantitative analysis/data scientist with near 3 years of experience working in research and development roles. He has a knack for problem-solving and passion for data science (He is in training).
+- Farhad Davaripour is a quantitative analyst/data scientist with near 3 years of experience working in research and development roles. He has a knack for problem-solving and passion for data science (He is in training).
 - Connect with Farhad on [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
