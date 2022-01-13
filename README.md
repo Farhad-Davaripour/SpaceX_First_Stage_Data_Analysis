@@ -25,6 +25,9 @@ The extracts launch data from SpaceX REST API and employs classification algorit
 * Machine learning Models
 * Conclusion
 
+The launch data is also extracted separately from [Wikipedia page](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922) web page. The notebook is provided in the link below:  
+[Web scraping launch data using python](https://github.com/Farhad-Davaripour/SpaceX_First_Stage_Data_Analysis/blob/main/Web_Scraping.ipynb)
+
 ## About The Author
 
 ![image](MyImage-GitHub.jpg)
