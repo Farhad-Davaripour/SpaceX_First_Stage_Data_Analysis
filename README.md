@@ -1,11 +1,10 @@
-## Hands-on Practice Learning Lab for Data Science
+## Falcon 9 First Stage Landing Prediction 
 
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing\_1.gif)
 
 ### Overview  
 * * *
-__Falcon 9 First Stage Landing Prediction__  
 
 SpaceX is a well-known private company famous for several historic milestones in launching rockets and successfully returning the first stage. This capability enabled SpaceX to advertise the Falcon 9 rocket with the price of $62 million which is more than 60% cheaper that the other competitive companies.  
 
